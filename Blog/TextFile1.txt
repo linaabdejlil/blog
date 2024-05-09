@@ -1,0 +1,12 @@
+les étapes a suivre sont:
+1-Creation des models
+2-
+3-
+4-
+Entity Framework Migration : Add-Migration "name of the migration"
+                             update-database
+
+Models = represent the data 
+view = user interface 
+controllers= is the request handlers 
+Create controllers 
